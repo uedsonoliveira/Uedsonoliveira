@@ -5,8 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uedsonoliveira&bg_color=407af6&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Uedsonoliveira&show_icons=true&count_private=true&hide_border=true&title_color=407af6&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Uedson Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uedsonoliveira&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=407af6" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Uedsonoliveira&theme=react&show_icons=true&hide=stars,issues,contribs" alt="Estatísticas do Git Hub" /> 
 </div>
  
 ### Habilidades Principais:
