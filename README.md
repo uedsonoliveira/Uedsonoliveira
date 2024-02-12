@@ -10,9 +10,9 @@
 
 ## 🌎 Sobre Mim:
 
-- 🌱 2021 * Formado em Análise e Desenvolvimento de Sistemas.
-- 🔭 2023 * Tenho formação no ano de 2023 em Desenvolvimento Web Full Stack[Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
-- 👩‍💻 Atualmente * Estou cursando Desenvolvimento Web/Mobile Full Stack [Escola de Programação DevMedia](https://www.devmedia.com.br/).
+- 🌱 2021 - Formado em Análise e Desenvolvimento de Sistemas.
+- 🔭 2023 - Tenho formação no ano de 2023 em Desenvolvimento Web Full Stack[Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
+- 👩‍💻 Atualmente - Estou cursando Desenvolvimento Web/Mobile Full Stack [Escola de Programação DevMedia](https://www.devmedia.com.br/).
 - 🔍 Estou em busca de oportunidades de estágio ou colaborações em projetos relacionados ao Desenvolvimento Web.
  
 ### 🖥️ Habilidades:
