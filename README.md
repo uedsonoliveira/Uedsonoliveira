@@ -10,9 +10,9 @@
 
 ## 🌎 Sobre Mim:
 
-- 🌱 2019 - 2021 - Formado em Análise e Desenvolvimento de Sistemas.
+- 🌱 2019 - 2021 - Formado em Análise e Desenvolvimento de Sistemas.[Unopar](https://www.unopar.com.br/).
 - 🔭 2022 - 2023 - Formado em Desenvolvimento Web Full Stack[Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
-- 👩‍💻 2023 - 2024 - Estou cursando Desenvolvimento Web/Mobile Full Stack [Escola de Programação DevMedia](https://www.devmedia.com.br/).
+- 👩‍💻 2023 - 2024 - Estou cursando Desenvolvimento Web/Mobile Front End [Escola de Programação DevMedia](https://www.devmedia.com.br/).
 - 🔍 Estou em busca de oportunidades de estágio ou colaborações em projetos relacionados ao Desenvolvimento Web.
  
 ### 🖥️ Minhas Habilidades:
@@ -24,7 +24,6 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ### 🎯 Habilidades em Desenvolvimento:
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![REACT-NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
