@@ -12,8 +12,8 @@
 
 - 🌱 2019 - 2021 - Formado em Análise e Desenvolvimento de Sistemas.[Unopar](https://www.unopar.com.br/).
 - 🔭 2022 - 2023 - Formado em Desenvolvimento Web Full Stack[Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
-- 👩‍💻 2023 - 2024 - Estou cursando Desenvolvimento Web/Mobile Front End [Escola de Programação DevMedia](https://www.devmedia.com.br/).
-- 🔍 Estou em busca de oportunidades de estágio ou colaborações em projetos relacionados ao Desenvolvimento Web.
+- 👩‍💻 2023 - 2024 - Estou cursando Desenvolvimento Web Front End [Escola de Programação DevMedia](https://www.devmedia.com.br/).
+- 🔍 Estou em busca de oportunidades de estágio ou colaborações em projetos relacionados ao Desenvolvimento Web Front End.
  
 ### 🖥️ Minhas Habilidades:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
