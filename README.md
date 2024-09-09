@@ -14,7 +14,7 @@
 - 🔭 2022 - 2023 - Formado em Desenvolvimento Front End [Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
 - 👩‍💻 2023 - 2024 - Estou cursando Desenvolvimento Front End [Escola de Programação DevMedia](https://www.devmedia.com.br/).
  
-🔍 Desenvolvedor Front End, com um foco abrangente em tecnologias e práticas modernas. Atualmente, estou aprofundando meus conhecimentos em React na Escola de Programação DevMedia, onde desde julho de 2023, estudei HTML, CSS, Algoritmos, JavaScript, Node.js e MongoDB. Anteriormente, concluí o Curso de Desenvolvimento Front End no Instituto Federal do Espírito Santo (IFES), onde aprimorei minhas habilidades em JavaScript, Node.js e SQLite. 
+🔍 Desenvolvedor Front End, com um foco abrangente em tecnologias e práticas modernas. Atualmente, estou aprofundando meus conhecimentos em Javascript na Escola de Programação DevMedia, onde desde julho de 2023, estudei HTML, CSS, Algoritmos, JavaScript, Node.js e MongoDB. Anteriormente, concluí o Curso de Desenvolvimento Front End no Instituto Federal do Espírito Santo (IFES), onde aprimorei minhas habilidades em JavaScript, Node.js e SQLite. 
 
 🔍Estou desenvolvendo habilidades em plataformas Low Code, focando na Power Platform Microsoft (Power Apps, Power Automate e SharePoint). Participando de cursos e eventos online, tenho me capacitado para criar soluções automatizadas e eficientes em diversos segmentos. Essa formação me permite agilizar processos e desenvolver aplicativos que atendem às necessidades específicas das empresas, sem a necessidade de codificação extensiva, proporcionando mais eficiência e inovação no ambiente corporativo.
 
