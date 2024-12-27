@@ -13,12 +13,28 @@
 - 🌱 2019 - 2021 - Formado em Análise e Desenvolvimento de Sistemas.[Unopar](https://www.unopar.com.br/).
 - 🔭 2022 - 2023 - Formado em Desenvolvimento Front End [Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
 - 👩‍💻 2023 - 2024 - Estou cursando Desenvolvimento Front End [Escola de Programação DevMedia](https://www.devmedia.com.br/).
- 
-🔍 Desenvolvedor Front End, com um foco abrangente em tecnologias e práticas modernas. Atualmente, estou aprofundando meus conhecimentos em Javascript na Escola de Programação DevMedia, onde desde julho de 2023, estudei HTML, CSS, Algoritmos, JavaScript, Node.js e MongoDB. Anteriormente, concluí o Curso de Desenvolvimento Front End no Instituto Federal do Espírito Santo (IFES), onde aprimorei minhas habilidades em JavaScript, Node.js e SQLite. 
+- 🖥️ 2024 - 2025 - Estou cursando Análise de Dados / Python - SQL - Power Bi - Excel (em várias plataformas)
 
-🔍Estou desenvolvendo habilidades em plataformas Low Code, focando na Power Platform Microsoft (Power Apps, Power Automate e SharePoint). Participando de cursos e eventos online, tenho me capacitado para criar soluções automatizadas e eficientes em diversos segmentos. Essa formação me permite agilizar processos e desenvolver aplicativos que atendem às necessidades específicas das empresas, sem a necessidade de codificação extensiva, proporcionando mais eficiência e inovação no ambiente corporativo.
+🔍Analista de Dados em formação com foco em transformar dados em informações valiosas para a tomada de decisão. 
 
- 
+  🎯 Habilidades e Cursos Concluídos:
+    - Python: Análises e manipulação de dados, visualizações gráficas e desenvolvimento de insights utilizando bibliotecas         como pandas, numpy e matplotlib.
+    - SQL: Criação e otimização de consultas, modelagem de dados e manipulação de bases relacionais para extração de       
+      insights precisos.
+    - Power BI: Desenvolvimento de dashboards interativos, modelagem de dados e storytelling com dados para comunicar 
+      resultados de forma clara.
+    - Excel: Análises avançadas, tabelas dinâmicas, gráficos e uso de funções para organização e análise eficiente de dados.
+  
+  📊 Atualmente, estou aprimorando minhas habilidades em projetos práticos e criando soluções de impacto na área de análise 
+  de dados, aplicando o que aprendi em problemas reais.
+  
+  🚀 Objetivo: Ajudar empresas e equipes a tomarem decisões baseadas em dados, promovendo melhorias e gerando valor 
+  estratégico por meio de análises precisas e visualizações impactantes.
+
+🔍 Desenvolvedor Front End, com um foco abrangente em tecnologias e práticas modernas. Atualmente, estou aprofundando meus conhecimentos em Javascript na Escola de Programação DevMedia, onde desde julho de 2023, estudei HTML, CSS, Algoritmos, JavaScript, Node.js, MongoDB e MySql. Anteriormente, concluí o Curso de Desenvolvimento Front End no Instituto Federal do Espírito Santo (IFES), onde aprimorei minhas habilidades em JavaScript, Node.js e SQLite. 
+
+🔍 Desenvolvedor Low Code, focado na Power Platform Microsoft (Power Apps, Power Automate e SharePoint). Participando de cursos e eventos online, tenho me capacitado para criar soluções automatizadas e eficientes em diversos segmentos. Essa formação me permite agilizar processos e desenvolver aplicativos que atendem às necessidades específicas das empresas, sem a necessidade de codificação extensiva, proporcionando mais eficiência e inovação no ambiente corporativo.
+
 ### 🖥️ Minhas Habilidades:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
