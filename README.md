@@ -34,7 +34,7 @@ de dados, aplicando o que aprendi em problemas reais.
 🚀 Objetivo: Ajudar empresas e equipes a tomarem decisões baseadas em dados, promovendo melhorias e gerando valor 
 estratégico por meio de análises precisas e visualizações impactantes.
 
-🔍 Desenvolvedor Front End, com um foco abrangente em tecnologias e práticas modernas. Estudo na Escola de Programação DevMedia, onde desde julho de 2023, cursos já finalizados: HTML, CSS, Algoritmos, JavaScript, Node.js, MongoDB e MySql. Anteriormente, concluí o Curso de Desenvolvimento Front End no Instituto Federal do Espírito Santo (IFES), onde aprimorei minhas habilidades em JavaScript, Node.js e SQLite. 
+🔍 Desenvolvedor Front End, com um foco abrangente em tecnologias e práticas modernas. Como estudante na Escola de Programação DevMedia desde julho de 2023, onde já finalizei vários cursos, entre eles: HTML, CSS, Algoritmos, JavaScript, Node.js, MongoDB e MySql. Anteriormente no ano de 2023, concluí o Curso de Desenvolvimento Front End no Instituto Federal do Espírito Santo (IFES).
 
 🔍 Desenvolvedor Low Code, focado na Power Platform Microsoft (Power Apps, Power Automate e SharePoint). Participando de cursos e eventos online, tenho me capacitado para criar soluções automatizadas e eficientes em diversos segmentos. Essa formação me permite agilizar processos e desenvolver aplicativos que atendem às necessidades específicas das empresas, sem a necessidade de codificação extensiva, proporcionando mais eficiência e inovação no ambiente corporativo.
 
