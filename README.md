@@ -18,11 +18,14 @@
 🔍Analista de Dados em formação com foco em transformar dados em informações valiosas para a tomada de decisão. 
 
   🎯 Habilidades e Cursos Concluídos:
-    - Python: Análises e manipulação de dados, visualizações gráficas e desenvolvimento de insights utilizando bibliotecas         como pandas, numpy e matplotlib.
+    - Python: Análises e manipulação de dados, visualizações gráficas e desenvolvimento de insights utilizando bibliotecas como pandas, numpy e matplotlib.
+    
     - SQL: Criação e otimização de consultas, modelagem de dados e manipulação de bases relacionais para extração de       
       insights precisos.
+      
     - Power BI: Desenvolvimento de dashboards interativos, modelagem de dados e storytelling com dados para comunicar 
       resultados de forma clara.
+      
     - Excel: Análises avançadas, tabelas dinâmicas, gráficos e uso de funções para organização e análise eficiente de dados.
   
   📊 Atualmente, estou aprimorando minhas habilidades em projetos práticos e criando soluções de impacto na área de análise 
