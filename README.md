@@ -10,10 +10,10 @@
 
 ## 🌎 Sobre Mim:
 
-- 🌱 2019 - 2021 - Formado em Análise e Desenvolvimento de Sistemas.[Unopar](https://www.unopar.com.br/).
-- 🔭 2022 - 2023 - Formado em Desenvolvimento Front End [Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
-- 👩‍💻 2023 - 2024 - Estou cursando Desenvolvimento Front End [Escola de Programação DevMedia](https://www.devmedia.com.br/).
-- 🖥️ 2024 - 2025 - Estou cursando Análise de Dados / Python - SQL - Power Bi - Excel (em várias plataformas)
+- 🌱 2019 - 2021 - Superior em Análise e Desenvolvimento de Sistemas.[Unopar](https://www.unopar.com.br/).
+- 🔭 2022 - 2023 - Desenvolvimento Front End [Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
+- 👩‍💻 2023 - 2024 - Desenvolvimento Front End [Escola de Programação DevMedia](https://www.devmedia.com.br/).
+- 🖥️ 2024 - 2025 - Dados [Python e SQL](https://oficinapython.com.br/)
 
 🔍Analista de Dados em formação com foco em transformar dados em informações valiosas para a tomada de decisão. 
 
@@ -34,9 +34,15 @@ de dados, aplicando o que aprendi em problemas reais.
 🚀 Objetivo: Ajudar empresas e equipes a tomarem decisões baseadas em dados, promovendo melhorias e gerando valor 
 estratégico por meio de análises precisas e visualizações impactantes.
 
-🔍 Desenvolvedor Front End, com um foco abrangente em tecnologias e práticas modernas. Como estudante na Escola de Programação DevMedia desde julho de 2023, onde já finalizei vários cursos, entre eles: HTML, CSS, Algoritmos, JavaScript, Node.js, MongoDB e MySql. Anteriormente no ano de 2023, concluí o Curso de Desenvolvimento Front End no Instituto Federal do Espírito Santo (IFES).
 
-🔍 Desenvolvedor Low Code, focado na Power Platform Microsoft (Power Apps, Power Automate e SharePoint). Participando de cursos e eventos online, tenho me capacitado para criar soluções automatizadas e eficientes em diversos segmentos. Essa formação me permite agilizar processos e desenvolver aplicativos que atendem às necessidades específicas das empresas, sem a necessidade de codificação extensiva, proporcionando mais eficiência e inovação no ambiente corporativo.
+🚀 Meus Repositórios
+
+Atualmente, meus repositórios contêm projetos dos cursos de Front-end que já finalizei.
+
+📌 Meu foco agora está na área de Dados (Python, SQL, Análises de Dados, Engenharia de Dados).
+
+🔜 Em breve, estarei postando meus projetos de dados aqui!
+
 
 ### 📲 Fique à vontade para explorar meu perfil e entrar em contato comigo:
 
