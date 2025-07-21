@@ -13,7 +13,7 @@
 - 🌱 2019 - 2021 - Superior em Análise e Desenvolvimento de Sistemas.[Unopar](https://www.unopar.com.br/).
 - 🔭 2022 - 2023 - Desenvolvimento Front End [Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
 - 👩‍💻 2023 - 2024 - Desenvolvimento Front End [Escola de Programação DevMedia](https://www.devmedia.com.br/).
-- 🖥️ 2024 - 2025 - Dados [Oficina Python / Python e SQL](https://oficinapython.com.br/)
+- 🖥️ 2024 - 2025 - Análise de Dados [Oficina Python / Python e SQL](https://oficinapython.com.br/)
 
 🔍Analista de Dados em formação com foco em transformar dados em informações valiosas para a tomada de decisão. 
 
