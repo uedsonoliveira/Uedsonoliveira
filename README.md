@@ -16,10 +16,11 @@
 - 🖥️ 2024 - 2025 - Data Analytics [Oficina Python / Python e SQL](https://oficinapython.com.br/)
 - 📲 2025 - Atualmente - Back-end Developer [Plataforma Digita Innovation One - DIO](https://www.dio.me/)
 
-🔍Data analytics com foco em transformar dados em informações valiosas para a tomada de decisão. 
-🔍Web Developer Focado em criar experiências digitais claras, responsivas e acessíveis, com atenção a detalhes e boas práticas.
+### 🔍Data analytics com foco em transformar dados em informações valiosas para a tomada de decisão.
+  
+### 🔍Web Developer Focado em criar experiências digitais claras, responsivas e acessíveis, com atenção a detalhes e boas práticas.
 
-🎯 Habilidades e Cursos Concluídos:
+## 🎯 Habilidades e Cursos Concluídos:
 - HTML: Estruturação semântica de páginas web, criação de layouts claros e acessíveis, utilização de elementos HTML5 modernos e boas práticas de SEO.
 
 - CSS: Estilização responsiva e moderna, criação de layouts flexíveis com Flexbox e Grid, animações simples e consistentes, manutenção de design coeso e organizado.
@@ -36,15 +37,15 @@ resultados de forma clara.
 
 - Excel: Análises avançadas, tabelas dinâmicas, gráficos e uso de funções para organização e análise eficiente de dados.
 
-💼 Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvolvimento web, aplicando conhecimentos em projetos práticos para criar soluções de impacto.
+## 💼 Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvolvimento web, aplicando conhecimentos em projetos práticos para criar soluções de impacto.
 
-📊 Na área de dados, trabalho com Python para manipulação e visualização de informações, SQL para consultas e modelagem de dados, Power BI para dashboards interativos e storytelling com dados, e Excel para análises avançadas e organização de informações.
+### 📊 Na área de dados, trabalho com Python para manipulação e visualização de informações, SQL para consultas e modelagem de dados, Power BI para dashboards interativos e storytelling com dados, e Excel para análises avançadas e organização de informações.
 
-💻 No desenvolvimento web, aplico HTML para estruturação semântica de páginas, CSS para design responsivo e moderno, e JavaScript para criar funcionalidades interativas, sites dinâmicos e experiências web envolventes.
+### 💻 No desenvolvimento web, aplico HTML para estruturação semântica de páginas, CSS para design responsivo e moderno, e JavaScript para criar funcionalidades interativas, sites dinâmicos e experiências web envolventes.
 
-🔹 Meu objetivo é unir análise de dados e desenvolvimento web para entregar soluções completas, eficientes e visualmente atraentes, capazes de gerar insights e experiências de usuário de alto impacto.
+### 🔹 Meu objetivo é unir análise de dados e desenvolvimento web para entregar soluções completas, eficientes e visualmente atraentes, capazes de gerar insights e experiências de usuário de alto impacto.
 
-🚀 Meus Repositórios
+## 🚀 Meus Repositórios
 
 Atualmente, meus repositórios contêm projetos dos cursos de Web Developer que já finalizei.
 
