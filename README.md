@@ -11,13 +11,21 @@
 ## 🌎 Sobre Mim:
 
 - 🌱 2019 - 2021 - Superior em Análise e Desenvolvimento de Sistemas.[Unopar](https://www.unopar.com.br/).
-- 🔭 2022 - 2023 - Desenvolvimento Front End [Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
-- 👩‍💻 2023 - 2024 - Desenvolvimento Front End [Escola de Programação DevMedia](https://www.devmedia.com.br/).
-- 🖥️ 2024 - 2025 - Análise de Dados [Oficina Python / Python e SQL](https://oficinapython.com.br/)
+- 🔭 2022 - 2023 - Especialização em Web Developer Avançado [Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
+- 👩‍💻 2023 - 2024 - Front-end Developer [Escola de Programação DevMedia](https://www.devmedia.com.br/).
+- 🖥️ 2024 - 2025 - Data Analytics [Oficina Python / Python e SQL](https://oficinapython.com.br/)
+- 📲 2025 - Atualmente - Back-end Developer [Plataforma Digita Innovation One - DIO](https://www.dio.me/)
 
-🔍Analista de Dados em formação com foco em transformar dados em informações valiosas para a tomada de decisão. 
+🔍Data analytics com foco em transformar dados em informações valiosas para a tomada de decisão. 
+🔍Web Developer Focado em criar experiências digitais claras, responsivas e acessíveis, com atenção a detalhes e boas práticas.
 
 🎯 Habilidades e Cursos Concluídos:
+- HTML: Estruturação semântica de páginas web, criação de layouts claros e acessíveis, utilização de elementos HTML5 modernos e boas práticas de SEO.
+
+- CSS: Estilização responsiva e moderna, criação de layouts flexíveis com Flexbox e Grid, animações simples e consistentes, manutenção de design coeso e organizado.
+
+- JavaScript: Desenvolvimento de funcionalidades interativas e dinâmicas em páginas web, manipulação do DOM, validação de formulários, integração com APIs e boas práticas de código modular.
+
 - Python: Análises e manipulação de dados, visualizações gráficas e desenvolvimento de insights utilizando bibliotecas como pandas, numpy e matplotlib.    
 
 - SQL: Criação e otimização de consultas, modelagem de dados e manipulação de bases relacionais para extração de       
@@ -28,21 +36,17 @@ resultados de forma clara.
 
 - Excel: Análises avançadas, tabelas dinâmicas, gráficos e uso de funções para organização e análise eficiente de dados.
 
-📊 Atualmente, estou aprimorando minhas habilidades em projetos práticos e criando soluções de impacto na área de análise 
-de dados, aplicando o que aprendi em problemas reais.
-  
-🚀 Objetivo: Ajudar empresas e equipes a tomarem decisões baseadas em dados, promovendo melhorias e gerando valor 
-estratégico por meio de análises precisas e visualizações impactantes.
+💼 Atualmente, estou aprimorando minhas habilidades em análise de dados e desenvolvimento web, aplicando conhecimentos em projetos práticos para criar soluções de impacto.
 
+📊 Na área de dados, trabalho com Python para manipulação e visualização de informações, SQL para consultas e modelagem de dados, Power BI para dashboards interativos e storytelling com dados, e Excel para análises avançadas e organização de informações.
+
+💻 No desenvolvimento web, aplico HTML para estruturação semântica de páginas, CSS para design responsivo e moderno, e JavaScript para criar funcionalidades interativas, sites dinâmicos e experiências web envolventes.
+
+🔹 Meu objetivo é unir análise de dados e desenvolvimento web para entregar soluções completas, eficientes e visualmente atraentes, capazes de gerar insights e experiências de usuário de alto impacto.
 
 🚀 Meus Repositórios
 
-Atualmente, meus repositórios contêm projetos dos cursos de Front-end que já finalizei.
-
-📌 Meu foco agora está na área de Dados (Python, SQL, Análises de Dados, Engenharia de Dados).
-
-🔜 Em breve, estarei postando meus projetos de dados aqui!
-
+Atualmente, meus repositórios contêm projetos dos cursos de Web Developer que já finalizei.
 
 ### 📲 Fique à vontade para explorar meu perfil e entrar em contato comigo:
 
