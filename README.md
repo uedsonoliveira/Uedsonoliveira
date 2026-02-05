@@ -14,7 +14,7 @@
 - 🔭 2022 - 2023 - Especialização em Web Developer Avançado [Reprograme-se / IFES-ES](https://reprograme-se.org.br/).
 - 👩‍💻 2023 - 2024 - Front-end Developer [Escola de Programação DevMedia](https://www.devmedia.com.br/).
 - 🖥️ 2024 - 2025 - Data Analytics [Oficina Python / Python e SQL](https://oficinapython.com.br/)
-- 📲 2025 - Atualmente - Back-end Developer [Plataforma Digita Innovation One - DIO](https://www.dio.me/)
+- 📲 2025 - 2026 - Back-end Developer [Plataforma Digita Innovation One - DIO](https://www.dio.me/)
 
 ### 🔍Data analytics com foco em transformar dados em informações valiosas para a tomada de decisão.
   
